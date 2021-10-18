@@ -1,0 +1,1 @@
+@git show --pretty=format:"%%h %%d %%s" -s
