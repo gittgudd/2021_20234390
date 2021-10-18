@@ -1,0 +1,6 @@
+>git // in front of any command that has to do with git
+>show // used to show information on commits and other things
+>log // used to show history of commits
+>checkout // allows previous commits to be accessed
+>init // initialises a git repository in a directory
+>reset // can be used to take a file off of staging
