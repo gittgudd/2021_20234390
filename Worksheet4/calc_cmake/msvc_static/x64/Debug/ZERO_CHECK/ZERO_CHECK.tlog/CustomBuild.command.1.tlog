@@ -1,0 +1,10 @@
+^C:\USERS\WALLE\2021_20234390\WORKSHEET4\CALC_CMAKE\MSVC_STATIC\CMAKEFILES\D6F5512EF99E31B797B510BE370E25A8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/WALLE/2021_20234390/Worksheet4/calc_cmake -BC:/Users/WALLE/2021_20234390/Worksheet4/calc_cmake/msvc_static --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/WALLE/2021_20234390/Worksheet4/calc_cmake/msvc_static/calc.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

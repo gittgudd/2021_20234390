@@ -1,0 +1,4 @@
+C:/Users/WALLE/2021_20234390/Worksheet4/calc_cmake/msvc_dynamic/CMakeFiles/maths.dir
+C:/Users/WALLE/2021_20234390/Worksheet4/calc_cmake/msvc_dynamic/CMakeFiles/calc.dir
+C:/Users/WALLE/2021_20234390/Worksheet4/calc_cmake/msvc_dynamic/CMakeFiles/ALL_BUILD.dir
+C:/Users/WALLE/2021_20234390/Worksheet4/calc_cmake/msvc_dynamic/CMakeFiles/ZERO_CHECK.dir
