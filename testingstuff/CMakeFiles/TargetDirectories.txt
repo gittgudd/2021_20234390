@@ -1,0 +1,2 @@
+C:/Users/WALLE/2021_20234390/testingstuff/CMakeFiles/edit_cache.dir
+C:/Users/WALLE/2021_20234390/testingstuff/CMakeFiles/rebuild_cache.dir

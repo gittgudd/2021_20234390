@@ -1,0 +1,4 @@
+C:/Users/WALLE/2021_20234390/Worksheet5/exercise 6/CMakeFiles/list_qt.dir
+C:/Users/WALLE/2021_20234390/Worksheet5/exercise 6/CMakeFiles/edit_cache.dir
+C:/Users/WALLE/2021_20234390/Worksheet5/exercise 6/CMakeFiles/rebuild_cache.dir
+C:/Users/WALLE/2021_20234390/Worksheet5/exercise 6/CMakeFiles/list_qt_autogen.dir
