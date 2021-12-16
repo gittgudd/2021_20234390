@@ -3,8 +3,11 @@
 #define STOCKITEMLISTMODEL_H
 #include <QAbstractListModel>
 #include "stockitem.h"
+
+
 class StockItemListModel : public QAbstractListModel {
 Q_OBJECT
+
 public:
 // Constructor
 explicit StockItemListModel( QObject* parent = 0 ) : QAbstractListModel( parent ) {}

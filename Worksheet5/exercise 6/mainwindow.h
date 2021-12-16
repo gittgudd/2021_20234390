@@ -21,6 +21,7 @@ public slots:
     void handleAddButton();
     void handleEditButton();
     void handleRemoveButton();
+    void handleSaveButton();
 
 private:
     Ui::MainWindow *ui;

@@ -1442,10 +1442,56 @@ CMakeFiles/list_qt.dir/mainwindow.cpp.obj: mainwindow.cpp \
   edititemdialog.h \
   C:/Qt/6.2.2/mingw_64/include/QtWidgets/QDialog \
   C:/Qt/6.2.2/mingw_64/include/QtWidgets/qdialog.h \
+  savedialog.h \
   C:/Qt/6.2.2/mingw_64/include/QtWidgets/QMessageBox \
   C:/Qt/6.2.2/mingw_64/include/QtWidgets/qmessagebox.h \
   C:/Qt/6.2.2/mingw_64/include/QtWidgets/qdialog.h \
-  C:/Qt/6.2.2/mingw_64/include/QtWidgets/QMenu
+  C:/Qt/6.2.2/mingw_64/include/QtGui/QAction \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ostream \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ios \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_ios.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwctype \
+  C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/wctype.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets.tcc \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_ios.tcc \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
+  C:/Qt/6.2.2/mingw_64/include/QtWidgets/QFileDialog \
+  C:/Qt/6.2.2/mingw_64/include/QtWidgets/qfiledialog.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qdir.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qfile.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qfiledevice.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qiodevice.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/filesystem \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fs_fwd.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fs_path.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/locale \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/codecvt.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_conv.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iomanip \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/quoted_string.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/sstream \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/sstream.tcc \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/codecvt \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fs_dir.h \
+  C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fs_ops.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qfileinfo.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qurl.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/QFile \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qfile.h \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/QIODevice \
+  C:/Qt/6.2.2/mingw_64/include/QtCore/qiodevice.h
 
 CMakeFiles/list_qt.dir/stockitem.cpp.obj: stockitem.cpp \
   stockitem.h \
@@ -1980,6 +2026,8 @@ C:/Qt/6.2.2/mingw_64/include/QtGui/qtguiglobal.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/std_abs.h:
 
+C:/Qt/6.2.2/mingw_64/include/QtCore/QFile:
+
 list_qt_autogen/mocs_compilation.cpp:
 
 C:/Qt/6.2.2/mingw_64/include/QtGui/qtextformat.h:
@@ -2015,6 +2063,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/atomic
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_function.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/qdialog.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fs_dir.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/type_traits:
 
@@ -2082,6 +2132,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/utility:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_relops.h:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/codecvt.h:
+
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mm_malloc.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/std_function.h:
@@ -2099,6 +2151,8 @@ C:/Qt/6.2.2/mingw_64/include/QtWidgets/QApplication:
 C:/Qt/6.2.2/mingw_64/include/QtCore/qtcore-config.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cstdint:
+
+savedialog.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdint.h:
 
@@ -2121,6 +2175,8 @@ C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h:
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h:
 
 C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/malloc.h:
+
+C:/Qt/6.2.2/mingw_64/include/QtCore/qcalendar.h:
 
 C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/errno.h:
 
@@ -2184,6 +2240,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/prede
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algo.h:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_ios.h:
+
 C:/Qt/6.2.2/mingw_64/include/QtCore/qpropertyprivate.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/algorithmfwd.h:
@@ -2197,6 +2255,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_t
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/new_allocator.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_construct.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/sstream.tcc:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/new:
 
@@ -2213,6 +2273,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/unifo
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/glue_algorithm_defs.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/functional:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/sstream:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/string_conversions.h:
 
@@ -2238,6 +2300,8 @@ C:/Qt/6.2.2/mingw_64/include/QtCore/qmath.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/unordered_map:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/time_members.h:
+
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/qmainwindow.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/allocator.h:
@@ -2255,6 +2319,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/alloc_
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/aligned_buffer.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ostream:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hashtable.h:
 
@@ -2281,6 +2347,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_u
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h:
+
+C:/Qt/6.2.2/mingw_64/include/QtCore/QIODevice:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/execution_defs.h:
 
@@ -2404,6 +2472,8 @@ C:/Qt/6.2.2/mingw_64/include/QtWidgets/qlabel.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtCore/qtmetamacros.h:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
+
 C:/Qt/6.2.2/mingw_64/include/QtGui/qwindowdefs_win.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtCore/qstring.h:
@@ -2444,11 +2514,15 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/strin
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwchar:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_conv.h:
+
 C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/wchar.h:
 
 C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
 
 C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/_mingw_off_t.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fs_ops.h:
 
 C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/_mingw_stat64.h:
 
@@ -2506,6 +2580,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/map:
 
 C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/sys/timeb.h:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/codecvt:
+
 C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/pthread_compat.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/shared_ptr_base.h:
@@ -2533,6 +2609,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/QFrame:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stdexcept:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fs_path.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtCore/qscopeguard.h:
 
@@ -2572,6 +2650,8 @@ C:/Qt/6.2.2/mingw_64/include/QtCore/qstringtokenizer.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/numeric:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc:
+
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/glue_numeric_defs.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtCore/qiterator.h:
@@ -2587,6 +2667,10 @@ C:/Qt/6.2.2/mingw_64/include/QtCore/qstringlist.h:
 C:/Qt/6.2.2/mingw_64/include/QtCore/qstringmatcher.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtCore/qscopedpointer.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/locale:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/fs_fwd.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtCore/qmetatype.h:
 
@@ -2613,6 +2697,8 @@ C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list:
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/qtabbar.h:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/list.tcc:
+
+C:/Qt/6.2.2/mingw_64/include/QtWidgets/QFileDialog:
 
 C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_map.h:
 
@@ -2648,6 +2734,8 @@ C:/Qt/6.2.2/mingw_64/include/QtGui/qimage.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtGui/qpolygon.h:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/filesystem:
+
 C:/Qt/6.2.2/mingw_64/include/QtGui/qregion.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtCore/qline.h:
@@ -2669,6 +2757,8 @@ C:/Qt/6.2.2/mingw_64/include/QtWidgets/qsizepolicy.h:
 list_qt_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 C:/Qt/6.2.2/mingw_64/include/QtGui/qcursor.h:
+
+C:/Qt/6.2.2/mingw_64/include/QtWidgets/qfiledialog.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtGui/qkeysequence.h:
 
@@ -2760,6 +2850,8 @@ C:/Qt/6.2.2/mingw_64/include/QtCore/qabstractitemmodel.h:
 
 list_qt_autogen/EWIEGA46WW/moc_stockitemlistmodel.cpp:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iomanip:
+
 main.cpp:
 
 list_qt_autogen/include/ui_mainwindow.h:
@@ -2778,9 +2870,13 @@ C:/Qt/6.2.2/mingw_64/include/QtWidgets/qabstractitemdelegate.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/qstyleoption.h:
 
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets_nonio.h:
+
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/qabstractslider.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/QMenu:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
 
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/qmenu.h:
 
@@ -2797,5 +2893,39 @@ C:/Qt/6.2.2/mingw_64/include/QtWidgets/qtoolbar.h:
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/QMessageBox:
 
 C:/Qt/6.2.2/mingw_64/include/QtWidgets/qmessagebox.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ios:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwctype:
+
+C:/Qt/Tools/mingw900_64/x86_64-w64-mingw32/include/wctype.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets.tcc:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_ios.tcc:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc:
+
+C:/Qt/6.2.2/mingw_64/include/QtCore/qdir.h:
+
+C:/Qt/6.2.2/mingw_64/include/QtCore/qfile.h:
+
+C:/Qt/6.2.2/mingw_64/include/QtCore/qfiledevice.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets_nonio.tcc:
+
+C:/Qt/Tools/mingw900_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/quoted_string.h:
+
+C:/Qt/6.2.2/mingw_64/include/QtCore/qfileinfo.h:
+
+C:/Qt/6.2.2/mingw_64/include/QtCore/qdatetime.h:
 
 stockitemlistmodel.cpp:

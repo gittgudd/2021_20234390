@@ -312,7 +312,7 @@ CMakeFiles/list_qt.dir/edititemdialog.cpp.obj: \
  C:\Users\WALLE\2021_20234390\Worksheet5\exercise\ 6\stockitem.h \
  C:/Qt/6.2.2/mingw_64/include/QtCore/QString \
  C:/Qt/6.2.2/mingw_64/include/QtCore/qstring.h \
- C:/Users/WALLE/2021_2~1/WORKSH~3/EXERCI~2/LIST_Q~1/include/ui_edititemdialog.h \
+ C:/Users/WALLE/2021_20234390/Worksheet5/exercise\ 6/list_qt_autogen/include/ui_edititemdialog.h \
  C:/Qt/6.2.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.2.2/mingw_64/include/QtCore/qvariant.h \
  C:/Qt/6.2.2/mingw_64/include/QtCore/qmap.h \

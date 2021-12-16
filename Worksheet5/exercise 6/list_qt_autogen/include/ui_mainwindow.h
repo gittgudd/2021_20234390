@@ -30,7 +30,6 @@ class Ui_MainWindow
 {
 public:
     QAction *actionSave;
-    QAction *actionLoad;
     QWidget *centralWidget;
     QVBoxLayout *verticalLayout;
     QListView *listView;
@@ -41,8 +40,7 @@ public:
     QSpacerItem *horizontalSpacer_2;
     QPushButton *removeButton;
     QMenuBar *menuBar;
-    QMenu *menuLoad;
-    QMenu *menuSave;
+    QMenu *menuFile;
     QToolBar *mainToolBar;
     QStatusBar *statusBar;
 
@@ -53,8 +51,6 @@ public:
         MainWindow->resize(505, 436);
         actionSave = new QAction(MainWindow);
         actionSave->setObjectName(QString::fromUtf8("actionSave"));
-        actionLoad = new QAction(MainWindow);
-        actionLoad->setObjectName(QString::fromUtf8("actionLoad"));
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));
         verticalLayout = new QVBoxLayout(centralWidget);
@@ -99,10 +95,8 @@ public:
         menuBar = new QMenuBar(MainWindow);
         menuBar->setObjectName(QString::fromUtf8("menuBar"));
         menuBar->setGeometry(QRect(0, 0, 505, 25));
-        menuLoad = new QMenu(menuBar);
-        menuLoad->setObjectName(QString::fromUtf8("menuLoad"));
-        menuSave = new QMenu(menuBar);
-        menuSave->setObjectName(QString::fromUtf8("menuSave"));
+        menuFile = new QMenu(menuBar);
+        menuFile->setObjectName(QString::fromUtf8("menuFile"));
         MainWindow->setMenuBar(menuBar);
         mainToolBar = new QToolBar(MainWindow);
         mainToolBar->setObjectName(QString::fromUtf8("mainToolBar"));
@@ -111,8 +105,8 @@ public:
         statusBar->setObjectName(QString::fromUtf8("statusBar"));
         MainWindow->setStatusBar(statusBar);
 
-        menuBar->addAction(menuLoad->menuAction());
-        menuBar->addAction(menuSave->menuAction());
+        menuBar->addAction(menuFile->menuAction());
+        menuFile->addAction(actionSave);
 
         retranslateUi(MainWindow);
 
@@ -123,12 +117,10 @@ public:
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
         actionSave->setText(QCoreApplication::translate("MainWindow", "Save", nullptr));
-        actionLoad->setText(QCoreApplication::translate("MainWindow", "Load", nullptr));
         addButton->setText(QCoreApplication::translate("MainWindow", "Add", nullptr));
         editButton->setText(QCoreApplication::translate("MainWindow", "Edit", nullptr));
         removeButton->setText(QCoreApplication::translate("MainWindow", "Remove", nullptr));
-        menuLoad->setTitle(QCoreApplication::translate("MainWindow", "Load", nullptr));
-        menuSave->setTitle(QCoreApplication::translate("MainWindow", "Save", nullptr));
+        menuFile->setTitle(QCoreApplication::translate("MainWindow", "File", nullptr));
     } // retranslateUi
 
 };

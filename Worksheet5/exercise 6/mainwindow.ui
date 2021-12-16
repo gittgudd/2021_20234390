@@ -80,18 +80,13 @@
      <height>25</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuLoad">
+   <widget class="QMenu" name="menuFile">
     <property name="title">
-     <string>Load</string>
+     <string>File</string>
     </property>
+    <addaction name="actionSave"/>
    </widget>
-   <widget class="QMenu" name="menuSave">
-    <property name="title">
-     <string>Save</string>
-    </property>
-   </widget>
-   <addaction name="menuLoad"/>
-   <addaction name="menuSave"/>
+   <addaction name="menuFile"/>
   </widget>
   <widget class="QToolBar" name="mainToolBar">
    <attribute name="toolBarArea">
@@ -102,11 +97,6 @@
    </attribute>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
-  <action name="actionLoad">
-   <property name="text">
-    <string>Load</string>
-   </property>
-  </action>
   <action name="actionSave">
    <property name="text">
     <string>Save</string>

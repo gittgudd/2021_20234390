@@ -4,6 +4,7 @@
 int StockItemListModel::rowCount( const QModelIndex & parent ) const {
 return stockItems.size();
 }
+
 // function allows the listView to request data at index
 // QVariant is just Qt's way of defining a variable that could be any
 // basic type (int, float, double, string, ... )
@@ -18,6 +19,7 @@ return QVariant( stockItems[index.row()].getName() );
 return QVariant();
 }
 }
+
 // To allow modifying stored list
 void StockItemListModel::addItem( const StockItem & s ) {
 // This emits a signal to warn the listView that extra rows will be added
@@ -27,9 +29,11 @@ stockItems.push_back( s );
 // Emits a signal to say rows have been added.
 emit endInsertRows();
 }
+
 void StockItemListModel::insertItem( const StockItem &s, const QModelIndex & index ) {
 //?? (same as add item)
 }
+
 void StockItemListModel::setItem( const StockItem &s, const QModelIndex & index ) {
 if( index.isValid() && index.row() >= 0 && index.row() < stockItems.size() ) {
 // Just replace the item in the vector
