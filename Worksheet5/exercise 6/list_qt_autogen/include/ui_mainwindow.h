@@ -51,6 +51,9 @@ public:
         MainWindow->resize(505, 436);
         actionSave = new QAction(MainWindow);
         actionSave->setObjectName(QString::fromUtf8("actionSave"));
+        QIcon icon;
+        icon.addFile(QString::fromUtf8("../../../Desktop/Paomedia-Small-N-Flat-Floppy.ico"), QSize(), QIcon::Normal, QIcon::Off);
+        actionSave->setIcon(icon);
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));
         verticalLayout = new QVBoxLayout(centralWidget);
@@ -107,6 +110,7 @@ public:
 
         menuBar->addAction(menuFile->menuAction());
         menuFile->addAction(actionSave);
+        mainToolBar->addAction(actionSave);
 
         retranslateUi(MainWindow);
 
