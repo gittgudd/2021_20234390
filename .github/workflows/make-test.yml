@@ -26,10 +26,10 @@ jobs:
 
     # Step 2: Run make to build (remember - use Linux build command)
     - name: Build
-      working-directory: ${{github.workspace}}/build # cd to the build directory before running commands
+      working-directory: ${{github.workspace}}/Worksheet7/build # cd to the build directory before running commands
       run: make
 
     # Step 3: Run the tests
     - name: Test
-      working-directory: ${{github.workspace}}/build
+      working-directory: ${{github.workspace}}/Worksheet7/build
       run: make test
