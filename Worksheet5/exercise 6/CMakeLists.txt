@@ -3,7 +3,7 @@
 cmake_minimum_required( VERSION 2.8.11 )
 
 # Name of the project
-project( qt_ui )
+project( list_qt )
 
 # The CMake build process might generate some new files in the current
 # directory. This makes sure they can be found.

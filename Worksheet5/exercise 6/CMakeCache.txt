@@ -107,7 +107,7 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 CMAKE_GNUtoMS:BOOL=OFF
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/qt_ui
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/list_qt
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Qt/Tools/mingw900_64/bin/ld.exe
@@ -151,7 +151,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=qt_ui
+CMAKE_PROJECT_NAME:STATIC=list_qt
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Qt/Tools/mingw900_64/bin/ranlib.exe
@@ -273,13 +273,13 @@ Vulkan_INCLUDE_DIR:PATH=Vulkan_INCLUDE_DIR-NOTFOUND
 Vulkan_LIBRARY:FILEPATH=Vulkan_LIBRARY-NOTFOUND
 
 //Value Computed by CMake
-qt_ui_BINARY_DIR:STATIC=C:/Users/WALLE/2021_20234390/Worksheet5/exercise 6
+list_qt_BINARY_DIR:STATIC=C:/Users/WALLE/2021_20234390/Worksheet5/exercise 6
 
 //Value Computed by CMake
-qt_ui_IS_TOP_LEVEL:STATIC=ON
+list_qt_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-qt_ui_SOURCE_DIR:STATIC=C:/Users/WALLE/2021_20234390/Worksheet5/exercise 6
+list_qt_SOURCE_DIR:STATIC=C:/Users/WALLE/2021_20234390/Worksheet5/exercise 6
 
 
 ########################
