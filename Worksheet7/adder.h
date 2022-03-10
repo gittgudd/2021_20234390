@@ -40,8 +40,7 @@
 * This file contains the declarations of all exported functions.
 */
 
-/** Brief description
-* This description will hopefully be picked up on by doxygen
+/** A function that returns the sum of two input integers
 */
 MATHSLIB_API int add( int a, int b );
 #endif
